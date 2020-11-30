@@ -33,7 +33,8 @@ for (const i in iterable) {
 }
 
 for (const i of iterable) {
-  console.log(i); // logs 3, 5, 7
+  console.log(i);
+  console.log(g);// logs 3, 5, 7
 }
 
 //thay doi thu

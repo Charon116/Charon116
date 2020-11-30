@@ -35,3 +35,5 @@ for (const i in iterable) {
 for (const i of iterable) {
   console.log(i); // logs 3, 5, 7
 }
+
+//thay doi thu
